@@ -1,0 +1,46 @@
+section{
+    padding: 120px 16px;
+}
+
+.logo {
+    background: #1175b9;
+    border-radius: 50%;
+    width: 60px;
+    height: 60px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    margin-bottom: 20px;
+}
+
+.logo:hover {
+    border: 1px solid #2a69a6;
+    background: transparent;
+}
+        
+svg {
+    fill: #ececec;
+}
+
+.logo:hover svg{
+    fill: #2a69a6;
+}
+
+
+.text{
+    font-family: 'Raleway', sans-serif;
+    text-align: center;
+    font-size: 14px;
+}
+
+.text h3{
+    text-transform: uppercase;
+    font-weight: bold;
+    padding-bottom: 23px;
+
+}
+
+.text p{
+    padding-bottom: 109px;
+}
