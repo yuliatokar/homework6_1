@@ -11,7 +11,7 @@ section{
     justify-content: center;
     align-items: center;
     cursor: pointer;
-    margin-bottom: 20px;
+    margin: 0 auto 20px;
 }
 
 .logo:hover {
